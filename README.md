@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Keshav Singh  
-### 🚀 BCA Student | AI & ML Enthusiast | Frontend Developer | NCC Cadet  
+### 🚀 BCA Student | AI & ML Enthusiast | Frontend Developer |
 
 ![Profile Banner](https://via.placeholder.com/1200x400)  
 
 ## About Me  
 - 🎓 Pursuing **BCA with AI & ML**  
-- 💻 Learning **C, C++, DSA, and Stock Market Investment**  
+- 💻 Learning **C, C++, DSA, Machine learning and Stock Market Investment**  
 - 📚 Hobbies: **Reading books, gardening, traveling**  
-- 🎖️ NCC Cadet
+- 🎖️ **NCC Cadet**
 - 💲 **SPONSORSHIP CLUB Member**
 
 ## 🔗 Connect with Me  
